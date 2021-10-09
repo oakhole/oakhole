@@ -1,1 +1,3 @@
-![Oakhole's GitHub stats](https://github-readme-stats.vercel.app/api?username=oakhole&show_icons=true&theme=graywhite&include_all_commits=true)
+## My personal technology blog
+
+没啥好说的，就是太懒了！
